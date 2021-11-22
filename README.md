@@ -1,4 +1,5 @@
-# qujs
-JavaScript SDK for Quantum Computing
+https://www.qujs.org/
+
+# QuJS
 
 ![](QuJS.png)
